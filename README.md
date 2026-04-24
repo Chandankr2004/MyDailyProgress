@@ -49,4 +49,20 @@ OOPs is not just theory — it is the foundation of building scalable and mainta
 
 🚀 Slowly improving my problem-solving and design thinking.
 
-#Java #OOPs #LearningInPublic #BackendDevelopment #CodingJourney
+
+
+🚀 My Daily Learning Update | 19 April 2026
+
+Today, I focused on strengthening my core development skills through both practice and concept revision.
+
+🔹 Practiced basic Data Structures and Algorithms (Arrays & Strings), including problems like string reversal, palindrome check, and simple pattern building. This helped me improve my problem-solving approach.
+
+🔹 Revised key JavaScript concepts such as hoisting and async/await, which are essential for understanding how JavaScript works behind the scenes.
+
+🔹 Learned how APIs work and implemented simple GET and POST APIs using Node.js and Express, gaining clarity on the request-response cycle.
+
+🔹 Pushed my work to GitHub and focused on maintaining a clean and structured codebase.
+
+Overall, today was about building a deeper understanding of fundamentals and applying them practically.
+
+I believe consistency in learning and small daily improvements lead to long-term growth. 💻
